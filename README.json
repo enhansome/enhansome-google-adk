@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "google/adk-python",
+          "description": "The official Python implementation of Google's Agent Development Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:38:59Z",
+            "owner": "google",
+            "repo": "adk-python",
+            "stars": 21096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/adk-samples",
+          "description": "Official sample agents built with Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:23:27Z",
+            "owner": "google",
+            "repo": "adk-samples",
+            "stars": 10155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/adk-docs",
+          "description": "Official documentation for the Google Agent Development Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T15:32:14Z",
+            "owner": "google",
+            "repo": "adk-docs",
+            "stars": 1468
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kweinmeister/agentic-trading",
+          "description": "Sample application demonstrating Google ADK and A2A interoperability for trading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:26:09Z",
+            "owner": "kweinmeister",
+            "repo": "agentic-trading",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sokart/adk-walkthrough",
+          "description": "Step-by-step guides for building multi-agent systems with Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-17T17:08:29Z",
+            "owner": "sokart",
+            "repo": "adk-walkthrough",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RubensZimbres/A2A_ADK_MCP",
+          "description": "Multi-Agent Systems using Google's ADK + A2A + MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T20:02:53Z",
+            "owner": "RubensZimbres",
+            "repo": "Multi-Agent-System-A2A-ADK-MCP",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Multi-Agent Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoogleCloudPlatform/agent-starter-pack",
+          "description": "A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T23:42:40Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "agent-starter-pack",
+            "stars": 6534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chongdashu/adk‑made‑simple",
+          "description": "Lesson‑based starter agents used in the \"ADK Made Simple\" YouTube series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T12:26:56Z",
+            "owner": "chongdashu",
+            "repo": "adk-made-simple",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kkdai/linebot-adk",
+          "description": "LINE Bot template that works with Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T14:48:57Z",
+            "owner": "kkdai",
+            "repo": "linebot-adk",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phamvuhoang/google-adk-nextjs-starter",
+          "description": "Next.js starter template for Google ADK projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-17T10:44:49Z",
+            "owner": "phamvuhoang",
+            "repo": "google-adk-nextjs-starter",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Templates & Starters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sokart/adk-walkthrough",
+          "description": "Step-by-step guides and examples using the open-source Python ADK framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-17T17:08:29Z",
+            "owner": "sokart",
+            "repo": "adk-walkthrough",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteatamel/adk-demos",
+          "description": "Collection of demos and tutorials for Google's Agent Development Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T13:33:26Z",
+            "owner": "meteatamel",
+            "repo": "adk-demos",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Tutorials & Walkthroughs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AashiDutt/Google-Agent-Development-Kit-Demo",
+          "description": "ADK-powered travel planner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T02:42:11Z",
+            "owner": "AashiDutt",
+            "repo": "Google-Agent-Development-Kit-Demo",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heurist-network/dev-examples/python/adk-google-sheet-mcp-project",
+          "description": "Crypto data pipeline using Google ADK that integrates with MCP servers to fetch real-time data and automatically save it to Google Sheets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-05T20:11:49Z",
+            "owner": "heurist-network",
+            "repo": "dev-examples",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtwn105/zerodha-mcp",
+          "description": "Zerodha MCP Server & Client integrating Google ADK for financial applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T10:31:54Z",
+            "owner": "mtwn105",
+            "repo": "zerodha-mcp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IhateCreatingUserNames2/Cognisphere",
+          "description": "Cognisphere ADK, an AI agent development framework built on Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T16:58:53Z",
+            "owner": "JCOMAIA",
+            "repo": "Cognisphere",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jenyss/google-adk-data-visualization-agent",
+          "description": "Data visualization agent built with Google ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-27T20:27:55Z",
+            "owner": "jenyss",
+            "repo": "google-adk-data-visualization-agent",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Domain-Specific Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trung-tlt/weather-agent-ai",
+          "description": "Weather information agent using Google ADK with OpenAI and Anthropic model integration via LiteLLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-18T09:49:28Z",
+            "owner": "trung-tlt",
+            "repo": "weather-agent-ai",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VeereshGowda/google-adk-multiagent",
+          "description": "Multi-agent system using Azure OpenAI models with Google's ADK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-15T07:25:26Z",
+            "owner": "VeereshGowda",
+            "repo": "google-adk-multiagent",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Model Integrations"
+    },
+    {
+      "description": "Contributions are welcome! Please feel free to submit a Pull Request.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI Agents",
+          "description": "A curated list of awesome AI agents and related resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T17:41:48Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM",
+          "description": "A curated list of Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-31T02:38:24Z",
+            "owner": "Hannibal046",
+            "repo": "Awesome-LLM",
+            "stars": 27258
+          }
+        }
+      ],
+      "title": "Related Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:02:56.741Z",
+    "original_repository": "tsubasakong/awesome-google-adk",
+    "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
+    "enhanced_repository": "enhansome/enhansome-google-adk",
+    "enhanced_repository_description": null,
+    "title": "Awesome Google ADK with stars"
+  }
+}
