@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:42:53Z",
+            "last_commit": "2026-08-16T05:47:27Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21123
+            "stars": 21139
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T14:13:44Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10159
+            "stars": 10164
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T23:07:30Z",
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1471
+            "stars": 1472
           }
         }
       ],
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-27T03:26:09Z",
+            "last_commit": "2026-08-16T18:04:31Z",
             "owner": "kweinmeister",
             "repo": "agentic-trading",
             "stars": 251
@@ -331,7 +331,7 @@
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29430
+            "stars": 29460
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27266
+            "stars": 27269
           }
         }
       ],
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:41:46.674Z",
+    "last_updated": "2026-08-16T19:40:48.538Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
     "enhanced_repository": "enhansome/enhansome-google-adk",
