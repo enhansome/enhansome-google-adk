@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:47:27Z",
+            "last_commit": "2026-08-17T19:33:19Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21139
+            "stars": 21163
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T14:13:44Z",
+            "last_commit": "2026-08-17T19:36:23Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10164
+            "stars": 10166
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T23:07:30Z",
+            "last_commit": "2026-08-17T18:20:25Z",
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1472
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T18:04:31Z",
+            "last_commit": "2026-08-17T13:17:09Z",
             "owner": "kweinmeister",
             "repo": "agentic-trading",
             "stars": 251
@@ -115,7 +115,7 @@
             "last_commit": "2026-07-21T23:42:40Z",
             "owner": "GoogleCloudPlatform",
             "repo": "agent-starter-pack",
-            "stars": 6534
+            "stars": 6535
           }
         },
         {
@@ -140,7 +140,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-26T14:48:57Z",
+            "last_commit": "2026-08-17T14:42:13Z",
             "owner": "kkdai",
             "repo": "linebot-adk",
             "stars": 33
@@ -331,7 +331,7 @@
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29460
+            "stars": 29485
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27269
+            "stars": 27268
           }
         }
       ],
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:40:48.538Z",
+    "last_updated": "2026-08-17T19:48:23.371Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
     "enhanced_repository": "enhansome/enhansome-google-adk",
