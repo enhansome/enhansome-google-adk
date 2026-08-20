@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-19T19:18:43Z",
+            "last_commit": "2026-08-20T19:38:18Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21193
+            "stars": 21205
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-19T17:27:30Z",
+            "last_commit": "2026-08-20T15:38:59Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10175
+            "stars": 10188
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 958830661,
             "language": "Shell",
-            "last_commit": "2026-08-19T19:45:33Z",
+            "last_commit": "2026-08-20T18:23:48Z",
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1475
+            "stars": 1476
           }
         }
       ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-07-21T23:42:40Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6537
+                "stars": 6538
               }
             },
             {
@@ -344,10 +344,10 @@
             "archived": false,
             "id": 655459367,
             "language": null,
-            "last_commit": "2026-07-09T17:41:48Z",
+            "last_commit": "2026-08-19T22:43:57Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29562
+            "stars": 29588
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27273
+            "stars": 27272
           }
         }
       ],
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:46:52.756Z",
+    "last_updated": "2026-08-20T19:52:28.661Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_id": 969003012,
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
