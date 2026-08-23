@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-21T22:34:02Z",
+            "last_commit": "2026-08-23T00:44:35Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21225
+            "stars": 21235
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T01:05:14Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10214
+            "stars": 10218
           }
         },
         {
@@ -120,7 +120,7 @@
                 "last_commit": "2026-07-21T23:42:40Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6539
+                "stars": 6540
               }
             },
             {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29615
+            "stars": 29635
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27274
+            "stars": 27275
           }
         }
       ],
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:42:36.020Z",
+    "last_updated": "2026-08-23T19:41:49.145Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_id": 969003012,
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
