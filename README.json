@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-23T00:44:35Z",
+            "last_commit": "2026-08-24T14:13:55Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21235
+            "stars": 21255
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-22T01:05:14Z",
+            "last_commit": "2026-08-24T06:15:56Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10218
+            "stars": 10223
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T23:58:43Z",
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1476
+            "stars": 1477
           }
         }
       ],
@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 967666661,
                 "language": "Python",
-                "last_commit": "2026-08-18T00:31:13Z",
+                "last_commit": "2026-08-24T03:25:31Z",
                 "owner": "kweinmeister",
                 "repo": "agentic-trading",
                 "stars": 251
@@ -110,6 +110,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "abhishekkumar35/google-adk-nocode",
+              "description": "Visual, no-code interface for creating AI agents with Google ADK (supports cloud and local Ollama models)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963846061,
+                "language": "Python",
+                "last_commit": "2025-04-10T11:03:50Z",
+                "owner": "abhishekkumar35",
+                "repo": "google-adk-nocode",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI & No-Code Solutions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GoogleCloudPlatform/agent-starter-pack",
               "description": "A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.",
               "children": [],
@@ -120,7 +142,7 @@
                 "last_commit": "2026-07-21T23:42:40Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6540
+                "stars": 6541
               }
             },
             {
@@ -328,6 +350,28 @@
           "description": null,
           "node_type": "group",
           "title": "Model Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "serkanyasr/mcp‑agent‑tool‑adapter",
+              "description": "Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961794638,
+                "language": "Python",
+                "last_commit": "2025-04-14T17:56:56Z",
+                "owner": "serkanyasr",
+                "repo": "mcp-agent-tool-adapter",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interoperability & Integration"
         }
       ],
       "title": "Community Projects"
@@ -347,7 +391,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29635
+            "stars": 29650
           }
         },
         {
@@ -362,7 +406,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27275
+            "stars": 27279
           }
         }
       ],
@@ -370,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:41:49.145Z",
+    "last_updated": "2026-08-24T14:43:23.649Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_id": 969003012,
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
