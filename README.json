@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-25T04:53:22Z",
+            "last_commit": "2026-08-25T18:23:31Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21269
+            "stars": 21286
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-25T01:13:44Z",
+            "last_commit": "2026-08-25T19:38:17Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10231
+            "stars": 10235
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 958830661,
             "language": "Shell",
-            "last_commit": "2026-08-24T21:06:48Z",
+            "last_commit": "2026-08-25T19:20:08Z",
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1480
@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 967666661,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:25:31Z",
+                "last_commit": "2026-08-25T13:33:58Z",
                 "owner": "kweinmeister",
                 "repo": "agentic-trading",
                 "stars": 251
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29662
+            "stars": 29669
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27282
+            "stars": 27283
           }
         }
       ],
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:42.901Z",
+    "last_updated": "2026-08-25T19:52:06.027Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_id": 969003012,
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
