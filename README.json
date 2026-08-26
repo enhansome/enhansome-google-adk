@@ -12,10 +12,10 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-25T18:23:31Z",
+            "last_commit": "2026-08-26T22:10:50Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21286
+            "stars": 21297
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-25T19:38:17Z",
+            "last_commit": "2026-08-26T20:30:50Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10235
+            "stars": 10241
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 958830661,
             "language": "Shell",
-            "last_commit": "2026-08-25T19:20:08Z",
+            "last_commit": "2026-08-26T22:19:00Z",
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1480
@@ -142,7 +142,7 @@
                 "last_commit": "2026-07-21T23:42:40Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6543
+                "stars": 6545
               }
             },
             {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29669
+            "stars": 29687
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27283
+            "stars": 27287
           }
         }
       ],
@@ -414,7 +414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:52:06.027Z",
+    "last_updated": "2026-08-26T22:21:44.918Z",
     "original_repository": "tsubasakong/awesome-google-adk",
     "original_repository_id": 969003012,
     "original_repository_sha": "c50b3f99a3dc181f1149a8ed8bfc37a92f6987e7",
