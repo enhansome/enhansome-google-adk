@@ -12,11 +12,12 @@
             "archived": false,
             "id": 958830659,
             "language": "Python",
-            "last_commit": "2026-08-28T00:05:23Z",
+            "last_commit": "2026-08-29T02:05:15Z",
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21309
-          }
+            "stars": 21319
+          },
+          "first_seen": "2026-08-29T02:19:26.283Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 958830671,
             "language": "Python",
-            "last_commit": "2026-08-27T19:04:35Z",
+            "last_commit": "2026-08-28T15:08:02Z",
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10243
-          }
+            "stars": 10248
+          },
+          "first_seen": "2026-08-29T02:19:26.283Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 958830661,
             "language": "Shell",
-            "last_commit": "2026-08-27T22:42:15Z",
+            "last_commit": "2026-08-29T00:32:43Z",
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1478
-          }
+          },
+          "first_seen": "2026-08-29T02:19:26.283Z"
         }
       ],
       "title": "Official Resources"
@@ -69,7 +72,8 @@
                 "owner": "kweinmeister",
                 "repo": "agentic-trading",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "sokart",
                 "repo": "adk-walkthrough",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "RubensZimbres",
                 "repo": "Multi-Agent-System-A2A-ADK-MCP",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -121,7 +127,8 @@
                 "owner": "abhishekkumar35",
                 "repo": "google-adk-nocode",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -142,8 +149,9 @@
                 "last_commit": "2026-07-21T23:42:40Z",
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6547
-              }
+                "stars": 6548
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "chongdashu",
                 "repo": "adk-made-simple",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "kkdai",
                 "repo": "linebot-adk",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "phamvuhoang",
                 "repo": "google-adk-nextjs-starter",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -210,7 +221,8 @@
                 "owner": "sokart",
                 "repo": "adk-walkthrough",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "meteatamel",
                 "repo": "adk-demos",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -247,7 +260,8 @@
                 "owner": "AashiDutt",
                 "repo": "Google-Agent-Development-Kit-Demo",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -262,7 +276,8 @@
                 "owner": "heurist-network",
                 "repo": "dev-examples",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -277,7 +292,8 @@
                 "owner": "mtwn105",
                 "repo": "zerodha-mcp",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "JCOMAIA",
                 "repo": "Cognisphere",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -307,7 +324,8 @@
                 "owner": "jenyss",
                 "repo": "google-adk-data-visualization-agent",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -329,7 +347,8 @@
                 "owner": "trung-tlt",
                 "repo": "weather-agent-ai",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "VeereshGowda",
                 "repo": "google-adk-multiagent",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -366,7 +386,8 @@
                 "owner": "serkanyasr",
                 "repo": "mcp-agent-tool-adapter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:19:26.283Z"
             }
           ],
           "description": null,
@@ -391,8 +412,9 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29715
-          }
+            "stars": 29732
+          },
+          "first_seen": "2026-08-29T02:19:26.283Z"
         },
         {
           "node_type": "item",
@@ -406,15 +428,16 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27292
-          }
+            "stars": 27298
+          },
+          "first_seen": "2026-08-29T02:19:26.283Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:37:27.376Z",
+    "last_updated": "2026-08-29T02:19:26.283Z",
     "original_repository_info": {
       "archived": false,
       "id": 969003012,
