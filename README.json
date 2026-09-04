@@ -15,11 +15,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T21:34:56Z",
-            "open_issues": 510,
+            "last_commit": "2026-09-04T16:20:20Z",
+            "open_issues": 497,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21397,
+            "stars": 21411,
             "topics": [
               "agent",
               "agentic",
@@ -53,11 +53,11 @@
             "id": 958830671,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T05:11:29Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-04T18:07:42Z",
+            "open_issues": 76,
             "owner": "google",
             "repo": "adk-samples",
-            "stars": 10277,
+            "stars": 10281,
             "topics": [
               "adk",
               "agent-samples",
@@ -78,11 +78,11 @@
             "id": 958830661,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:00:17Z",
-            "open_issues": 212,
+            "last_commit": "2026-09-04T21:22:58Z",
+            "open_issues": 215,
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1481,
+            "stars": 1483,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -236,7 +236,7 @@
                 "open_issues": 49,
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6550,
+                "stars": 6551,
                 "topics": [
                   "agents",
                   "gcp",
@@ -608,10 +608,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 988,
+            "open_issues": 990,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29851,
+            "stars": 29879,
             "topics": [
               "agent",
               "ai",
@@ -643,10 +643,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 444,
+            "open_issues": 448,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27320,
+            "stars": 27323,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -656,7 +656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:46:25.531Z",
+    "last_updated": "2026-09-04T21:35:37.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
