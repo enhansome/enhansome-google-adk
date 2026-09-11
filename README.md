@@ -47,9 +47,9 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ## Official Resources
 
-* [google/adk-python](https://github.com/google/adk-python) ⭐ 21,490 | 🐛 512 | 🌐 Python | 📅 2026-09-10 - The official Python implementation of Google's Agent Development Kit
-* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,298 | 🐛 79 | 🌐 Python | 📅 2026-09-10 - Official sample agents built with Google's ADK
-* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,488 | 🐛 212 | 🌐 Shell | 📅 2026-09-10 - Official documentation for the Google Agent Development Kit
+* [google/adk-python](https://github.com/google/adk-python) ⭐ 21,502 | 🐛 500 | 🌐 Python | 📅 2026-09-11 - The official Python implementation of Google's Agent Development Kit
+* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,302 | 🐛 77 | 🌐 Python | 📅 2026-09-11 - Official sample agents built with Google's ADK
+* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,489 | 🐛 215 | 🌐 Shell | 📅 2026-09-11 - Official documentation for the Google Agent Development Kit
 * [Making it easy to build multi-agent applications](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications) - Google Developers Blog, Apr 2025
 * [ADK Tutorials](https://google.github.io/adk-docs/tutorials/) – Official, step‑by‑step guides covering multi‑agent patterns, streaming, and deployment.
 
@@ -57,9 +57,9 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ### Multi-Agent Systems
 
-* [kweinmeister/agentic-trading](https://github.com/kweinmeister/agentic-trading) ⭐ 252 | 🐛 3 | 🌐 Python | 📅 2026-09-07 - Sample application demonstrating Google ADK and A2A interoperability for trading
+* [kweinmeister/agentic-trading](https://github.com/kweinmeister/agentic-trading) ⭐ 252 | 🐛 1 | 🌐 Python | 📅 2026-09-11 - Sample application demonstrating Google ADK and A2A interoperability for trading
 * [sokart/adk-walkthrough](https://github.com/sokart/adk-walkthrough) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2025-06-17 - Step-by-step guides for building multi-agent systems with Google's ADK
-* [RubensZimbres/A2A\_ADK\_MCP](https://github.com/RubensZimbres/A2A_ADK_MCP) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2025-04-21 - Multi-Agent Systems using Google's ADK + A2A + MCP
+* [RubensZimbres/A2A\_ADK\_MCP](https://github.com/RubensZimbres/A2A_ADK_MCP) - Multi-Agent Systems using Google's ADK + A2A + MCP
 
 ### UI & No-Code Solutions
 
@@ -126,7 +126,7 @@ This external curation provides additional validation for projects in this list 
 
 ## Community & Support
 
-* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 21,490 | 🐛 512 | 🌐 Python | 📅 2026-09-10 - Official discussion board for feature requests and troubleshooting
+* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 21,502 | 🐛 500 | 🌐 Python | 📅 2026-09-11 - Official discussion board for feature requests and troubleshooting
 * [Stack Overflow – `google-agent-development-kit` tag](https://stackoverflow.com/questions/tagged/google-agent-development-kit) - Public Q\&A for technical questions
 * [Reddit r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) - Official subreddit for Google ADK discussion
 
@@ -153,9 +153,9 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ## Related Lists
 
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,947 | 🐛 1,014 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,353 | 🐛 451 | 📅 2025-07-31 - A curated list of Large Language Models
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,957 | 🐛 1,017 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,355 | 🐛 451 | 📅 2025-07-31 - A curated list of Large Language Models
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
