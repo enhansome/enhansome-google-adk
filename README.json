@@ -15,11 +15,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T22:06:00Z",
-            "open_issues": 507,
+            "last_commit": "2026-09-25T21:52:54Z",
+            "open_issues": 513,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21630,
+            "stars": 21645,
             "topics": [
               "agent",
               "agentic",
@@ -53,11 +53,11 @@
             "id": 958830671,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T22:12:19Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-25T22:28:33Z",
+            "open_issues": 61,
             "owner": "google",
             "repo": "adk-recipes",
-            "stars": 10378,
+            "stars": 10383,
             "topics": [
               "adk",
               "agent-samples",
@@ -78,8 +78,8 @@
             "id": 958830661,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T22:07:43Z",
-            "open_issues": 218,
+            "last_commit": "2026-09-25T20:37:27Z",
+            "open_issues": 220,
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1506,
@@ -572,7 +572,7 @@
             "open_issues": 1065,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30151,
+            "stars": 30170,
             "topics": [
               "agent",
               "ai",
@@ -604,10 +604,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 465,
+            "open_issues": 466,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27423,
+            "stars": 27424,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:34:16.913Z",
+    "last_updated": "2026-09-25T22:33:42.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
