@@ -47,9 +47,9 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ## Official Resources
 
-* [google/adk-python](https://github.com/google/adk-python) ⭐ 21,688 | 🐛 496 | 🌐 Python | 📅 2026-09-30 - The official Python implementation of Google's Agent Development Kit
-* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,404 | 🐛 47 | 🌐 Python | 📅 2026-09-30 - Official sample agents built with Google's ADK
-* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,508 | 🐛 221 | 🌐 Shell | 📅 2026-09-30 - Official documentation for the Google Agent Development Kit
+* [google/adk-python](https://github.com/google/adk-python) ⭐ 21,691 | 🐛 475 | 🌐 Python | 📅 2026-10-01 - The official Python implementation of Google's Agent Development Kit
+* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,408 | 🐛 42 | 🌐 Python | 📅 2026-10-01 - Official sample agents built with Google's ADK
+* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,510 | 🐛 219 | 🌐 Shell | 📅 2026-10-01 - Official documentation for the Google Agent Development Kit
 * [Making it easy to build multi-agent applications](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications) - Google Developers Blog, Apr 2025
 * [ADK Tutorials](https://google.github.io/adk-docs/tutorials/) – Official, step‑by‑step guides covering multi‑agent patterns, streaming, and deployment.
 
@@ -59,7 +59,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 * [kweinmeister/agentic-trading](https://github.com/kweinmeister/agentic-trading) ⭐ 253 | 🐛 5 | 🌐 Python | 📅 2026-09-21 - Sample application demonstrating Google ADK and A2A interoperability for trading
 * [sokart/adk-walkthrough](https://github.com/sokart/adk-walkthrough) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2025-06-17 - Step-by-step guides for building multi-agent systems with Google's ADK
-* [RubensZimbres/A2A\_ADK\_MCP](https://github.com/RubensZimbres/A2A_ADK_MCP) - Multi-Agent Systems using Google's ADK + A2A + MCP
+* [RubensZimbres/A2A\_ADK\_MCP](https://github.com/RubensZimbres/A2A_ADK_MCP) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-09-11 - Multi-Agent Systems using Google's ADK + A2A + MCP
 
 ### UI & No-Code Solutions
 
@@ -67,7 +67,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ### Templates & Starters
 
-* [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) ⭐ 6,562 | 🐛 50 | 🌐 Python | 📅 2026-07-21 - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.
+* [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) ⭐ 6,566 | 🐛 50 | 🌐 Python | 📅 2026-07-21 - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.
 * [chongdashu/adk‑made‑simple](https://github.com/chongdashu/adk-made-simple) ⭐ 135 | 🐛 4 | 🌐 Python | 📅 2025-05-23 – Lesson‑based starter agents used in the "ADK Made Simple" YouTube series.
 * [kkdai/linebot-adk](https://github.com/kkdai/linebot-adk) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - LINE Bot template that works with Google's ADK
 * [phamvuhoang/google-adk-nextjs-starter](https://github.com/phamvuhoang/google-adk-nextjs-starter) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-17 - Next.js starter template for Google ADK projects
@@ -126,7 +126,7 @@ This external curation provides additional validation for projects in this list 
 
 ## Community & Support
 
-* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 21,688 | 🐛 496 | 🌐 Python | 📅 2026-09-30 - Official discussion board for feature requests and troubleshooting
+* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 21,691 | 🐛 475 | 🌐 Python | 📅 2026-10-01 - Official discussion board for feature requests and troubleshooting
 * [Stack Overflow – `google-agent-development-kit` tag](https://stackoverflow.com/questions/tagged/google-agent-development-kit) - Public Q\&A for technical questions
 * [Reddit r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) - Official subreddit for Google ADK discussion
 
@@ -153,9 +153,9 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ## Related Lists
 
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,231 | 🐛 1,087 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,437 | 🐛 467 | 📅 2025-07-31 - A curated list of Large Language Models
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,242 | 🐛 1,087 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,435 | 🐛 469 | 📅 2025-07-31 - A curated list of Large Language Models
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

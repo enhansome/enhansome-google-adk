@@ -15,11 +15,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:27:24Z",
-            "open_issues": 496,
+            "last_commit": "2026-10-01T23:15:06Z",
+            "open_issues": 475,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 21688,
+            "stars": 21691,
             "topics": [
               "agent",
               "agentic",
@@ -53,11 +53,11 @@
             "id": 958830671,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:04:31Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-01T23:04:43Z",
+            "open_issues": 42,
             "owner": "google",
             "repo": "adk-recipes",
-            "stars": 10404,
+            "stars": 10408,
             "topics": [
               "adk",
               "agent-samples",
@@ -78,11 +78,11 @@
             "id": 958830661,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T03:20:18Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-01T21:45:43Z",
+            "open_issues": 219,
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1508,
+            "stars": 1510,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -136,6 +136,45 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:26.283Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RubensZimbres/A2A_ADK_MCP",
+              "description": "Multi-Agent Systems using Google's ADK + A2A + MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-Agent Systems with Google's Agent Development Kit + A2A + MCP",
+                "homepage": null,
+                "id": 968401668,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-11T14:51:57Z",
+                "open_issues": 3,
+                "owner": "RubensZimbres",
+                "repo": "Agent-to-Agent-Security-Pipeline",
+                "stars": 0,
+                "topics": [
+                  "a2a",
+                  "adk",
+                  "agentdevelopmentkit",
+                  "chatbot",
+                  "cloudrun",
+                  "containers",
+                  "docker",
+                  "langchain",
+                  "mcp",
+                  "mcp-server",
+                  "multiagent",
+                  "multiagent-systems",
+                  "multiagents",
+                  "python",
+                  "python3",
+                  "rag",
+                  "rag-chatbot"
+                ]
+              },
+              "first_seen": "2026-10-01T23:16:12.337Z"
             }
           ],
           "description": null,
@@ -197,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6562,
+                "stars": 6566,
                 "topics": [
                   "agents",
                   "gcp",
@@ -572,7 +611,7 @@
             "open_issues": 1087,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30231,
+            "stars": 30242,
             "topics": [
               "agent",
               "ai",
@@ -604,10 +643,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 467,
+            "open_issues": 469,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27437,
+            "stars": 27435,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -617,7 +656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:06:13.317Z",
+    "last_updated": "2026-10-01T23:16:12.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
