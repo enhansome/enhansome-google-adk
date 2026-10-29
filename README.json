@@ -15,11 +15,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T22:38:50Z",
-            "open_issues": 374,
+            "last_commit": "2026-10-29T23:19:42Z",
+            "open_issues": 405,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 22034,
+            "stars": 22046,
             "topics": [
               "agent",
               "agentic",
@@ -53,11 +53,11 @@
             "id": 958830671,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T15:48:49Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-29T22:10:12Z",
+            "open_issues": 44,
             "owner": "google",
             "repo": "adk-recipes",
-            "stars": 10545,
+            "stars": 10551,
             "topics": [
               "adk",
               "agent-samples",
@@ -78,8 +78,8 @@
             "id": 958830661,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T23:21:21Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-29T08:37:45Z",
+            "open_issues": 339,
             "owner": "google",
             "repo": "adk-docs",
             "stars": 1530,
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
-                "stars": 6574,
+                "stars": 6575,
                 "topics": [
                   "agents",
                   "gcp",
@@ -522,7 +522,7 @@
                 "open_issues": 0,
                 "owner": "trung-tlt",
                 "repo": "weather-agent-ai",
-                "stars": 2,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:26.283Z"
@@ -608,10 +608,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 1232,
+            "open_issues": 1235,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30690,
+            "stars": 30708,
             "topics": [
               "agent",
               "ai",
@@ -656,7 +656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:21:32.227Z",
+    "last_updated": "2026-10-29T23:25:58.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
