@@ -15,11 +15,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T05:08:03Z",
-            "open_issues": 424,
+            "last_commit": "2026-11-01T06:44:11Z",
+            "open_issues": 436,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 22063,
+            "stars": 22073,
             "topics": [
               "agent",
               "agentic",
@@ -53,11 +53,11 @@
             "id": 958830671,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T16:30:04Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-01T02:13:46Z",
+            "open_issues": 44,
             "owner": "google",
             "repo": "adk-recipes",
-            "stars": 10559,
+            "stars": 10566,
             "topics": [
               "adk",
               "agent-samples",
@@ -79,10 +79,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-10-31T11:41:33Z",
-            "open_issues": 342,
+            "open_issues": 345,
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1529,
+            "stars": 1530,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -111,7 +111,7 @@
                 "open_issues": 5,
                 "owner": "kweinmeister",
                 "repo": "agentic-trading",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:26.283Z"
@@ -132,7 +132,7 @@
                 "open_issues": 1,
                 "owner": "sokart",
                 "repo": "adk-walkthrough",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:26.283Z"
@@ -341,7 +341,7 @@
                 "open_issues": 1,
                 "owner": "sokart",
                 "repo": "adk-walkthrough",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:26.283Z"
@@ -608,10 +608,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 1242,
+            "open_issues": 1250,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30733,
+            "stars": 30746,
             "topics": [
               "agent",
               "ai",
@@ -643,10 +643,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 491,
+            "open_issues": 493,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27466,
+            "stars": 27468,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -656,7 +656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:37:36.635Z",
+    "last_updated": "2026-11-01T22:55:47.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",
@@ -668,7 +668,7 @@
       "open_issues": 2,
       "owner": "tsubasakong",
       "repo": "awesome-google-adk",
-      "stars": 81,
+      "stars": 83,
       "topics": [
         "agent-development-kit",
         "ai-agents",
