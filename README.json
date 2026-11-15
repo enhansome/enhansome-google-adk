@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T20:02:05Z",
-            "open_issues": 461,
+            "open_issues": 480,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 22219,
+            "stars": 22230,
             "topics": [
               "agent",
               "agentic",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T20:01:32Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "google",
             "repo": "adk-recipes",
-            "stars": 10626,
+            "stars": 10636,
             "topics": [
               "adk",
               "agent-samples",
@@ -79,10 +79,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T00:55:10Z",
-            "open_issues": 332,
+            "open_issues": 337,
             "owner": "google",
             "repo": "adk-docs",
-            "stars": 1537,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:26.283Z"
@@ -230,9 +230,9 @@
                 "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
                 "homepage": "http://goo.gle/agents-cli",
                 "id": 925298844,
-                "language": "Python",
+                "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-21T23:42:40Z",
+                "last_commit": "2026-11-15T15:12:27Z",
                 "open_issues": 50,
                 "owner": "GoogleCloudPlatform",
                 "repo": "agent-starter-pack",
@@ -608,10 +608,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 1312,
+            "open_issues": 1319,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30935,
+            "stars": 30945,
             "topics": [
               "agent",
               "ai",
@@ -656,7 +656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:11:11.260Z",
+    "last_updated": "2026-11-15T23:25:57.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Google's Agent Development Kit (ADK)",

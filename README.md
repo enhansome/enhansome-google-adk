@@ -47,9 +47,9 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ## Official Resources
 
-* [google/adk-python](https://github.com/google/adk-python) ⭐ 22,219 | 🐛 461 | 🌐 Python | 📅 2026-11-14 - The official Python implementation of Google's Agent Development Kit
-* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,626 | 🐛 34 | 🌐 Python | 📅 2026-11-13 - Official sample agents built with Google's ADK
-* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,537 | 🐛 332 | 🌐 Shell | 📅 2026-11-14 - Official documentation for the Google Agent Development Kit
+* [google/adk-python](https://github.com/google/adk-python) ⭐ 22,230 | 🐛 480 | 🌐 Python | 📅 2026-11-14 - The official Python implementation of Google's Agent Development Kit
+* [google/adk-samples](https://github.com/google/adk-samples) ⭐ 10,636 | 🐛 36 | 🌐 Python | 📅 2026-11-13 - Official sample agents built with Google's ADK
+* [google/adk-docs](https://github.com/google/adk-docs) ⭐ 1,538 | 🐛 337 | 🌐 Shell | 📅 2026-11-14 - Official documentation for the Google Agent Development Kit
 * [Making it easy to build multi-agent applications](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications) - Google Developers Blog, Apr 2025
 * [ADK Tutorials](https://google.github.io/adk-docs/tutorials/) – Official, step‑by‑step guides covering multi‑agent patterns, streaming, and deployment.
 
@@ -126,7 +126,7 @@ This external curation provides additional validation for projects in this list 
 
 ## Community & Support
 
-* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 22,219 | 🐛 461 | 🌐 Python | 📅 2026-11-14 - Official discussion board for feature requests and troubleshooting
+* [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) ⭐ 22,230 | 🐛 480 | 🌐 Python | 📅 2026-11-14 - Official discussion board for feature requests and troubleshooting
 * [Stack Overflow – `google-agent-development-kit` tag](https://stackoverflow.com/questions/tagged/google-agent-development-kit) - Public Q\&A for technical questions
 * [Reddit r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) - Official subreddit for Google ADK discussion
 
@@ -153,9 +153,9 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ## Related Lists
 
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,935 | 🐛 1,312 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,945 | 🐛 1,319 | 📅 2026-08-21 - A curated list of awesome AI agents and related resources
 * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,497 | 🐛 504 | 📅 2025-07-31 - A curated list of Large Language Models
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
